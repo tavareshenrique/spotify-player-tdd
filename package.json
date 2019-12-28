@@ -60,6 +60,8 @@
     "webpack-dev-server": "^3.10.1"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^18.0.1"
+    "eslint-config-airbnb": "^18.0.1",
+    "node-fetch": "^2.6.0",
+    "spotify-wrapper": "^2.1.0"
   }
 }

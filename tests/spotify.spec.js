@@ -1,0 +1,12 @@
+import { expect } from 'chai';
+import spotify from '../src/spotify';
+
+describe('Spotify', () => {
+  it('should have search methods', () => {
+    expect(spotify.search).to.exist;
+  });
+
+  it('should have album methods', () => {
+    expect(spotify.album).to.exist;
+  });
+});
