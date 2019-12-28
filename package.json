@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tavareshenrique/spotify-player.git"
+    "url": "git+https://github.com/tavareshenrique/spotify-player-tdd.git"
   },
   "keywords": [
     "js",
@@ -35,9 +35,9 @@
   "author": "Henrique Tavares <ihenrits@gmail.com> (https://henriquetavares.com.br/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tavareshenrique/spotify-player/issues"
+    "url": "https://github.com/tavareshenrique/spotify-player-tdd/issues"
   },
-  "homepage": "https://github.com/tavareshenrique/spotify-player#readme",
+  "homepage": "https://github.com/tavareshenrique/spotify-player-tdd#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^10.0.3",
